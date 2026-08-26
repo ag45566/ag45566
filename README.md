@@ -1,6 +1,6 @@
 # 👋 Welcome to my profile
 
-Hi, I'm [Your Name]. This page is a quick snapshot of who I am and what I'm up to.
+Hi, I'm Alicia Garcia. This page is a quick snapshot of who I am and what I'm up to.
 
 ## 🙋 About Me
 [2–3 sentences about yourself — your background, interests, or why you're here.]
