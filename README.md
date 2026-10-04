@@ -15,4 +15,4 @@ Hi, I'm Alicia Garcia. This page is a quick snapshot of who I am and what I'm up
 
 ## 📬 Contact
 - Email: [your email]
-- [Other link, e.g. LinkedIn or website]
+- [Other link, e.g. website]
