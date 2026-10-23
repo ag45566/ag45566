@@ -12,7 +12,3 @@ Hi, I'm Alicia Garcia. This page is a quick snapshot of who I am and what I'm up
 
 ## 📌 Current Project
 **[Project Name]** — [one sentence about what it is and why you're making it]
-
-## 📬 Contact
-- Email: [your email]
-- [Other link, e.g. website]
